@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+	printf("Go fuck yourself");
+	return 0;
+}
